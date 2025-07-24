@@ -1,2 +1,3 @@
 # sushh-demo
-first time
+ # This is my first github repository
+ # Author - sushii
